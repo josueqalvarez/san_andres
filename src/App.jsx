@@ -15,6 +15,6 @@ function App() {
       <Footer />
     </>
   );
-}dsds
+}
 
 export default App;
